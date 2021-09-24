@@ -23,7 +23,7 @@ Apaixonado por programação, estusiata em Javascript. <br> Estudando sempre <a 
 <br>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=IgorSilvaZZ&show_icons=true&theme=radical&show_icons=true&count_private=true"/>
+ [Igor Github Stats](https://github-readme-stats.vercel.app/api?username=IgorSilvaZZ&theme=radical&show_icons=true&count_private=true)
 </div>
 
 <p align="center">
