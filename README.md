@@ -8,7 +8,7 @@
 </div>
 
 <div align="center" style="text-align: center;">
-Olá meu nome é Igor Silva atualmente tenho 20 anos, <br> estudante de Analise e Desenvolvimento de Sistemas (3° Semestre), e estagiário na <a href="https://www.orama.com.br/">Orama Investimentos</a>. <br> 
+Olá meu nome é Igor Silva atualmente tenho 20 anos, <br> estudante de Analise e Desenvolvimento de Sistemas (4° Semestre), e estagiário na <a href="https://www.orama.com.br/">Orama Investimentos</a>. <br> 
 Apaixonado por programação, estusiata em Javascript. <br> Estudando sempre <a href="https://nodejs.org/en/">NodeJS</a>, <a href="https://pt-br.reactjs.org/">ReactJS</a>, e treinando para ser FullStack
 </div>
 
