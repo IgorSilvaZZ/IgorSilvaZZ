@@ -19,7 +19,7 @@ Apaixonado por programação, estusiata em Javascript. <br> Estudando sempre <a 
 <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="40px"/>
 <img src="https://img.icons8.com/plasticine/100/000000/react.png" width="40px"/>
 <img src="https://img.icons8.com/dusk/64/000000/php-logo.png" width="40px"/>
-<img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
+<img src="https://img.icons8.com/color/48/000000/vue-js.png" width="40px"/>
 </div>
 <br>
 
