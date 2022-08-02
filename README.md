@@ -2,14 +2,14 @@
   <img src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" width="150px">
    <br><br>
   <samp>
-    🪐 Olá, Desenvolvedor BackEnd
+    🪐 Olá, Desenvolvedor FullStack
   </samp>
   
 </div>
 
 <div align="center" style="text-align: center;">
-Olá meu nome é Igor Silva atualmente tenho 20 anos, <br> estudante de Analise e Desenvolvimento de Sistemas (4° Semestre), e estagiário na <a href="https://www.orama.com.br/">Orama Investimentos</a>. <br> 
-Apaixonado por programação, estusiata em Javascript. <br> Estudando sempre <a href="https://nodejs.org/en/">NodeJS</a>, <a href="https://pt-br.reactjs.org/">ReactJS</a>, e treinando para ser FullStack
+Olá meu nome é Igor Silva atualmente tenho 20 anos, <br> graduado em Analise e Desenvolvimento de Sistemas e desenvolvedor junior (Front-End) na <a href="https://www.sptech.school/">São Paulo Tech School</a>. <br> 
+Apaixonado por programação, estusiata em Javascript. <br> Estudando sempre <a href="https://nodejs.org/en/">NodeJS</a>, <a href="https://pt-br.reactjs.org/">ReactJS</a> e <a href="https://vuejs.org/">VueJS</a>
 </div>
 
 <br>
