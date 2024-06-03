@@ -2,13 +2,13 @@
   <img src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" width="150px">
    <br><br>
   <samp>
-    🪐 Olá, Desenvolvedor FullStack
+    🪐 Olá, Desenvolvedor FullStack - Pleno
   </samp>
   
 </div>
 
 <div align="center" style="text-align: center;">
-Olá meu nome é Igor Silva atualmente tenho 21 anos, <br> graduado em Analise e Desenvolvimento de Sistemas e desenvolvedor junior (FullStack) na <a href="https://www.orama.com.br/">Orama Investimentos</a>. <br> 
+Olá meu nome é Igor Silva atualmente tenho 21 anos, <br> graduado em Analise e Desenvolvimento de Sistemas e Desenvolvedor Pleno (FullStack) na Nikos Investimentos. <br> 
 Apaixonado por programação, estusiata em Javascript. <br> Estudando sempre <a href="https://nodejs.org/en/">NodeJS</a>, <a href="https://pt-br.reactjs.org/">ReactJS</a>
 </div>
 
@@ -21,6 +21,7 @@ Apaixonado por programação, estusiata em Javascript. <br> Estudando sempre <a 
 <img src="https://img.icons8.com/color/48/000000/vue-js.png" width="40px"/>
 <img src="https://img.icons8.com/fluency/48/000000/typescript.png" width="40px"/>
 <img src="https://img.icons8.com/color/48/nestjs.png" width="40px"/>
+<img src="https://img.icons8.com/color/48/python--v1.png" width="40px" />
 </div>
 <br>
 
