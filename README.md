@@ -8,7 +8,7 @@
 </div>
 
 <div align="center" style="text-align: center;">
-Olá meu nome é Igor Silva atualmente tenho 21 anos, <br> graduado em Analise e Desenvolvimento de Sistemas e Desenvolvedor Senior (FullStack) na EcoAgro. <br> 
+Olá meu nome é Igor Silva atualmente tenho 23 anos, <br> graduado em Analise e Desenvolvimento de Sistemas e Desenvolvedor Senior (FullStack) na EcoAgro. <br> 
 Apaixonado por programação, estusiata em Javascript. <br> Estudando sempre <a href="https://nodejs.org/en/">NodeJS</a>, <a href="https://pt-br.reactjs.org/">ReactJS</a>
 </div>
 
